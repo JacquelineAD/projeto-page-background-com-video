@@ -169,6 +169,18 @@ body{
 
 }
 
+.container .icone-fechar{
+    position: absolute;
+    top: 0;
+    margin: 0;
+    width: 100%;
+    text-align: right;
+    font-size: 30px;
+    color: var(--corneutra);
+    margin-right: 5px;
+   
+}
+
 .form-box h2{
     font-size: 30px;
     color: var(--corneutra);
