@@ -190,6 +190,7 @@ body{
     font-size: 30px;
     color: var(--corneutra);
     margin-right: 5px;
+    cursor: pointer;
    
 }
 
@@ -257,6 +258,7 @@ body{
     border-radius: 8px;
     padding: 5px 0px;
     margin-top: 12px;
+    cursor: pointer;
 }
 
 .login-registro{
